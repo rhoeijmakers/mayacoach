@@ -1,0 +1,48 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.testimonials .item .testimonial .text {
+  color: #656565;
+  margin-bottom: 40px;
+}
+
+.banner {
+   max-width:100%;
+   height:auto
+}
+
+button {
+  background-color: #ccae61;
+  border-color: #ccae61;
+  padding: 21px 34px 21px 34px;
+  color: white;
+  border: 0px;
+  margin: 10px;
+  text-transform: uppercase;
+}
+
+.nav {
+  font-size: 18px;
+}
+
+.box-simple {
+  text-align: left;
+}
+
+.quote {
+  margin-top:60px;
+  font-size:36px;
+  text-align: center;
+}
+
+.lead {
+  text-align: center;
+}
