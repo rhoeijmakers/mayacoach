@@ -1,5 +1,44 @@
 /* your styles go here */
 
+body {
+  font-family: 'proxima-nova', sans-serif;
+  font-size: 22px;
+  color: rgba(62,61,61,0.71);
+  letter-spacing: 0.22px;
+}
+
+h1 {
+  font-family: 'minerva-modern', 'arial';
+  font-size: 52px;
+  font-weight: 400;
+  color: rgba(82,60,98,0.78)
+}
+
+h2 {
+  font-family: 'futura-pt';
+  font-size: 36px;
+  color: rgba(122,42,88,0.61)
+}
+
+.navbar {
+  background-color:white;
+}
+
+.nav {
+  text-transform: uppercase;
+  font-size: 16px;
+  letter-spacing: 1.28px;
+  font-weight:500;
+  line-height: 16px;
+}
+
+#footer, #copyright {
+  background-color: rgb(214, 209, 209);
+}
+
+.fa-3x {
+  font-size: 32px;
+}
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;
@@ -27,10 +66,7 @@ button {
   border: 0px;
   margin: 10px;
   text-transform: uppercase;
-}
-
-.nav {
-  font-size: 18px;
+  text-align: center;
 }
 
 .box-simple {
